@@ -1,0 +1,164 @@
+body {
+	padding:25px 25px 25px 25px;
+	margin: 15px 15px 15px 15px;
+	font-family: helvetica;
+}
+h1 {
+	text-align:center;
+	font-family:helvetica;
+	background-color:black;
+	color:white;
+	padding: 10px 10px 10px 10px;
+}
+h2 {
+	color: #FF000; 
+	padding: 2px 0px 25px 10px;
+	font-size: 20px;
+	font-family: helvetica;
+}
+p{
+	font-family:sans-serif;
+	color:black;
+	padding: 0px 0px 10px 10px;
+	font-size:20px;
+}
+.block1 {
+	background-color:#fee5be;
+	padding: 10px 10px 10px 10px;
+}
+#image1 img {
+  margin: 0px 0px 10px 15px;
+  border: 4px solid white;
+  border-radius: 20px;
+  width:175px;
+  display:block;
+  float: right;
+}
+#pglinks ul {text-align:center;
+}
+#pglinks li{
+	list-style-type: none;
+	font-size: 22px;
+	font-family:helvetica;
+	display:inline-block;
+	color:gray;
+}
+#contacticons img{
+	width:50px;
+	height:50px;
+	margin:5px 10px 5px 10px;
+	align-content: center;
+}
+#contacticons li{
+	list-style-type: none;
+	display: inline-block;
+}
+#contacticons ul {text-align:center;
+}
+#block2 span {
+	color: #FF000; 
+	font-size: 20px;
+	font-family: helvetica;
+	font-weight: bold;
+	padding:0px 0px 0px 10px;
+}
+#block2 ul{
+	padding:0px 10px 10px 10px;
+}
+#block2{
+	background-color:#fee5be;
+	padding: 10px 10px 10px 10px;
+}
+#portfolio p{
+	font-weight:normal;
+}
+#portfolio span{
+	font-weight:bold;
+}
+#portfolio ul{
+	display:inline-block;
+	padding:0px 0px 5px 20px;
+	list-style-type: square;
+	line-height:100%;
+}
+#portfolio p {
+	font-family:helvetica;
+	color:black;
+	padding: 0px 0px 20px 0px;
+	font-size:18px;
+}
+#image2 img{
+	padding: 0px 20px 0px 20px;
+} 
+#portfolio2 p{
+	font-weight:normal;
+}
+#portfolio2 span{
+	font-weight:bold;
+	}
+#portfolio2 ul{
+	display:inline-block;
+	padding:0px 0px 5px 20px;
+	list-style-type: square;
+}
+h5{
+	font-size:16px;
+}
+#portfolio2 p{
+	font-family:helvetica;
+	color:black;
+	padding: 0px;
+	font-size:18px;
+}
+#image3 img{
+	padding: 5px 20px 0px 20px;
+} 
+#portfolio3 p{
+	font-weight:normal;
+}
+#portfolio3 span{
+	font-weight:bold;
+}
+#portfolio3 ul{
+	display:inline-block;
+	padding:0px 0px 5px 20px;
+	list-style-type: square;
+}
+h6{
+	font-size:16px;
+}
+#portfolio3 p{
+	font-family:helvetica;
+	color:black;
+	padding: 0px;
+	font-size:18px;
+}
+#image4 img{
+	padding: 5px 20px 0px 20px;
+}
+#education h7 {
+	color: #FF000; 
+	font-size: 22px;
+	font-family: helvetica;
+	font-weight: bold;
+}
+#education ul{
+	padding: 5px 10px 10px 20px;
+	list-style-type: square;
+}
+.block3{
+	background-color:#fee5be;
+	padding: 10px 10px 10px 10px;
+}
+#contacticons2 img{
+	width:50px;
+	height:50px;
+	margin:5px 10px 5px 10px;
+	align-content: center;
+}
+#contacticons2 li{
+	list-style-type: none;
+	display: inline-block;
+}
+#contacticons2 ul {text-align:center;
+}
